@@ -43,38 +43,7 @@
 
 
 
-## 截图
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/d7cde1b0-0b01-4a0a-925a-05b10682924a)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/67eab5b8-0196-4083-b936-2bd95c1c100a)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/1662eb00-d93e-48f3-86c6-c0bedaa5db2a)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/9a7b4caa-6de2-49e9-bc2b-a40ba1ae5522)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/b9b38330-781f-4860-9f75-1c431ca9ce45)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/d73f7278-6f3b-4058-b917-0b32f1493c07)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/e94959b3-b58a-41fc-9a70-d0081342800b)
-
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/b929269e-679d-4ab5-8ed5-63d00c04fbb3)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/42f55591-6619-44e8-b44b-8011db6b317d)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/9f0608d7-5a03-47ea-a031-20ab3be02fe3)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/a9d434e0-bb48-4d00-981a-264aeb6f3e3a)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/e5bab9ec-c75f-4315-8572-73e5f5c389d5)
-
  
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/5816efca-0e60-4eee-ad78-78c9b6b81b8a)
-
- ![image](https://github.com/3075426724/PowerSportM/assets/88120656/2ce27031-724b-472e-8271-1bf5e55d1902)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/6732c3cb-238e-4924-bcbe-d675f9ab8067)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/8d388ea8-0fa2-4af1-bae2-673b82dd822b)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/03fa2d42-235d-4458-8bd6-67970726162b)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/7a8c38c3-daa0-494b-bedc-81f811204f26)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/d513b8cd-802a-4609-ba7c-296c30962ce4)
-
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/0a2d2e83-97b3-44a2-b177-3609c6b9cc23)
-
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/1f849a41-80db-41f0-95c2-e6a204126b6d)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/5752b010-ad7b-49e6-8a5f-450168a5ceaf)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/9a060ebe-cc78-42cb-9bc9-d10210dd26b8)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/2cbc5d98-a6d0-45f2-ae4d-c1a45f472b4d)
-![image](https://github.com/3075426724/PowerSportM/assets/88120656/3d8492b8-523c-4404-aa86-144171380d36)
